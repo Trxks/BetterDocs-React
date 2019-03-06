@@ -16,5 +16,6 @@ featured: true
 style: dark
 layout: product
 date: 2018-12-29T20:12:29.293Z
+    background-image: url(https://wallpapercave.com/wp/wp2411274.png
 ---
 A compact and highly customizable theme.
